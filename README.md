@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisolande&show_icons=true&locale=en" alt="chrisolande" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisolande&" alt="chrisolande" /></p>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
