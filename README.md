@@ -27,4 +27,13 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=material-palenight&hide_border=false" alt="Chrisolande" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       29 hrs 42 mins  ██████████████▒░░░░░░░░░░   57.99 %
+R            16 hrs 42 mins  ████████░░░░░░░░░░░░░░░░░   32.62 %
+Git          3 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+RMarkdown    1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
+
 <!--END_SECTION:waka-->
