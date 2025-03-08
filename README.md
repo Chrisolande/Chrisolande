@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LLMs, Stable Diffusion and Gen AI models**
 
-- 💬 Ask me about **ML and DL and Statistics**
+- 💬 Ask me about **ML, DL and Statistics**
 
 - 📫 How to reach me **olandechris@gmail.com**
 
