@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/olande73" target="blank"><img src="https://img.shields.io/twitter/follow/olande73?logo=twitter&style=for-the-badge" alt="olande73" /></a> </p>
 
-- 🌱 I’m currently learning **LLMs, Stable Diffusion and Gen AI models**
+- 🌱 I'm currently learning **LLMs, Stable Diffusion and Gen AI models**
 
 - 💬 Ask me about **ML, DL and Statistics**
 
@@ -25,7 +25,10 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Chrisolande&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="Chrisolande" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolande&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Chrisolande" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=material-palenight&hide_border=false" alt="Chrisolande" /></p>
-![Snake animation](https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <!--START_SECTION:waka-->
 
