@@ -29,11 +29,11 @@ jobs:
         with:
           # GitHub username where the contribution graph will be fetched
           github_user_name: ${{ github.repository_owner }}
-          # List of files to generate
+          # List of files to generate with dark theme as default
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-dark
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?palette=github-dark&color_snake=green
       
       # Push the content of <build_dir> to a branch
       - name: Push snake animation to branch
