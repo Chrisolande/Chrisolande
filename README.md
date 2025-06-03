@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **olandechris@gmail.com**
 
-- ⚡ Fun fact **Your brain runs on gradient descent! 🧠⚡ While others take random steps, you optimize every move to converge toward the best solution—whether it's in math, machine learning, or life! 😆📊**
+- ⚡ Fun fact **Your brain runs on gradient descent! 🧠⚡ While others take random steps, you optimize every move to converge toward the best solution whether it's in math, machine learning, or life! 😆📊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
