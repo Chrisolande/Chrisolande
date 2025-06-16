@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Chris Olande</h1>
 <h3 align="center">A Math-Driven Data Scientist in the Making</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=chrisolande&label=Profile%20views&color=0e75b6&style=flat" alt="chrisolande" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/olande73" target="_blank">
     <img src="https://img.shields.io/twitter/follow/olande73?logo=twitter&style=for-the-badge" alt="olande73" />
   </a>
 </p>
 
-- 🎓 I'm a Statistics and Programming student at **Kenyatta University**  
+---
+
+## 🚀 About Me
+
+- 🎓 Statistics and Programming student at **Kenyatta University**  
 - 🔭 Focused on becoming a **top-tier Machine Learning and NLP Engineer**  
 - 🌱 Currently exploring **LLMs**, **Stable Diffusion**, and **Generative AI**  
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, and Applied Statistics**  
@@ -21,8 +25,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🌐 Connect with me:
+<p align="center">
   <a href="https://twitter.com/olande73" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olande73" height="30" width="40" />
   </a>
@@ -33,8 +37,8 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 🛠️ Languages and Tools:
+<p align="center">
   <!-- Programming Languages -->
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>
@@ -97,20 +101,27 @@
 
 ---
 
-<p>
+## 📊 GitHub Stats:
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chrisolande&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="Chrisolande" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolande&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Chrisolande" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=material-palenight&hide_border=false" alt="Chrisolande" />
 </p>
 
+---
+
+## 🐍 Contribution Graph:
 <p align="center">
   <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
+
+## 📈 Coding Activity:
 <!--START_SECTION:waka-->
 
 ```txt
@@ -119,3 +130,6 @@ JSON         38 mins         ▒░░░░░░░░░░░░░░░░
 Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
+<!--END_SECTION:waka-->
