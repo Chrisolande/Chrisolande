@@ -130,6 +130,14 @@
 
 ---
 
+## 🐍 Watch My Contributions Get Devoured!
+
+<div align="center">
+  <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
