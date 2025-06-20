@@ -85,6 +85,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/tidymodels-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="tidymodels"/>
 </p>
 
 ### Data Visualization & Analysis
@@ -92,6 +93,8 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-%234A90E2.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
+  <img src="https://img.shields.io/badge/tidyverse-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="tidyverse"/>
 </p>
 
 ### Development & Deployment
