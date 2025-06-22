@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris Olande</h1>
-<h3 align="center">Math-Driven Data Scientist | ML Engineer in the Making | NLP Enthusiast</h3>
+<h3 align="center">Data Scientist | ML Engineer in the Making | NLP Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Statistics+%26+Programming+Student;Machine+Learning+Engineer;NLP+%26+Generative+AI+Explorer;Math+is+my+first+language!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Statistics+%26+Programming+Student;Machine+Learning+Engineer;NLP+%26+Generative+AI+Explorer;Building+intelligent+systems!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@
 
 ## 🚀 About Me
 
-> *"Your brain runs on gradient descent! 🧠⚡ While others wander in random walks, I optimize step-by-step toward global minima — in math, code, and life."*
+> *"Turning data into insights, algorithms into solutions! 🚀 Building intelligent systems that solve real-world problems through code and creativity."*
 
 - 🎓 **Statistics and Programming** student at **Kenyatta University**  
 - 🔭 On a mission to become a **top-tier Machine Learning and NLP Engineer**  
 - 🌱 Currently diving deep into **LLMs**, **Stable Diffusion**, and **Generative AI**  
-- 🧠 **Mathematical foundation** meets **practical implementation**
-- 💬 Let's discuss **Machine Learning, Deep Learning, NLP, and Applied Statistics**  
+- 🧠 **Strong analytical foundation** meets **practical implementation**
+- 💬 Let's discuss **Machine Learning, Deep Learning, NLP, and Data Science**  
 - 📫 Connect with me: **olandechris@gmail.com**  
 - 🌍 Based in **Nairobi, Kenya** 🇰🇪
 
@@ -66,7 +66,7 @@
 |---------|-------------|------------|--------|
 | 🤖 **NLP Sentiment Analyzer** | Real-time sentiment analysis with transformer models | Python, PyTorch, Streamlit | ![Status](https://img.shields.io/badge/Status-Active-success) |
 | 📊 **Statistical ML Pipeline** | End-to-end ML pipeline with statistical validation | Python, scikit-learn, Docker | ![Status](https://img.shields.io/badge/Status-Complete-blue) |
-| 🎯 **LLM Fine-tuning Framework** | Custom framework for domain-specific LLM training | Python, Transformers, CUDA | ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+| 🏥 **Medical Graph RAG System** | Graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, HF | ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) |
 
 </div>
 
@@ -193,6 +193,6 @@ INI          23 mins         ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <h3>💡 "In data we trust, in math we verify, in code we implement!" 💡</h3>
+  <h3>💡 "In data we trust, in code we build, in AI we innovate!" 💡</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
