@@ -23,7 +23,7 @@
 - 🔭 On a mission to become a **top-tier Machine Learning and NLP Engineer**  
 - 🌱 Currently diving deep into **LLMs**, **Stable Diffusion**, and **Generative AI**  
 - 🧠 **Strong analytical foundation** meets **practical implementation**
-- 💬 Let's discuss **Machine Learning, Deep Learning, NLP, and Data Science**  
+- 💬 Let's discuss **Machine Learning, Deep Learning, NLP, and Applied Statistics **  
 - 📫 Connect with me: **olandechris@gmail.com**  
 - 🌍 Based in **Nairobi, Kenya** 🇰🇪
 
