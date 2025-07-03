@@ -1,5 +1,10 @@
 # Chris Olande
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Chrisolande?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
 **Data Scientist**
 
 Statistics and Programming student at Kenyatta University, focused on building intelligent systems through machine learning and natural language processing.
@@ -16,7 +21,7 @@ Statistics and Programming student at Kenyatta University, focused on building i
 |---------|-------------|------------|
 | **NLP Sentiment Analyzer** | Real-time sentiment analysis with transformer models | Python, PyTorch, Streamlit |
 | **Statistical ML Pipeline** | End-to-end ML pipeline with statistical validation | Python, scikit-learn, Docker |
-| **Medical Graph RAG System** | Graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, Streamlit, HuggingFace |
+| **Medical Graph RAG System** | Graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers |
 
 ## Tech Stack
 
@@ -28,9 +33,12 @@ Statistics and Programming student at Kenyatta University, focused on building i
 ### Machine Learning & AI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ML Frameworks"/>
+  <img src="https://img.shields.io/badge/fastai-00A98F?style=for-the-badge&logo=fastai&logoColor=white" alt="fastai"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/tidymodels-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="tidymodels"/>
+  <img src="https://img.shields.io/badge/caret-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="caret"/>
 </p>
 
 ### Data Visualization & Analysis
@@ -39,11 +47,12 @@ Statistics and Programming student at Kenyatta University, focused on building i
   <img src="https://img.shields.io/badge/Seaborn-%234A90E2.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
+  <img src="https://img.shields.io/badge/tidyverse-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="tidyverse"/>
 </p>
 
 ### Development & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,kubernetes" alt="DevOps Tools"/>
 </p>
 
 ### Frameworks & Libraries
