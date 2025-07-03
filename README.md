@@ -101,7 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolande&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
-## Snake Animation
+## 🐍 Watch My Contributions Get Devoured!
 
 <div align="center">
   <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
