@@ -1,78 +1,25 @@
-<h1 align="center">Hi 👋, I'm Chris Olande</h1>
-<h3 align="center">Data Scientist | ML Engineer in the Making | NLP Enthusiast</h3>
+# Chris Olande
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Statistics+%26+Programming+Student;Machine+Learning+Engineer;NLP+%26+Generative+AI+Explorer;Building+intelligent+systems!" alt="Typing SVG" />
-</p>
+**Data Scientist**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chrisolande&label=Profile%20views&color=0e75b6&style=flat" alt="chrisolande" />
-  <a href="https://twitter.com/olande73" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/olande73?logo=twitter&style=for-the-badge" alt="olande73" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Chrisolande?label=Followers&style=social" alt="GitHub followers" />
-</p>
 
----
+Statistics and Programming student at Kenyatta University, focused on building intelligent systems through machine learning and natural language processing.
 
-## 🚀 About Me
+## Current Focus
 
-> *"Turning data into insights, algorithms into solutions! 🚀 Building intelligent systems that solve real-world problems through code and creativity."*
+- **Machine Learning & AI**: Deep Learning, NLP, Computer Vision, Generative AI
+- **Data Science**: Statistical Modeling, Predictive Analytics, Experimental Design
+- **Technologies**: Python, PyTorch, TensorFlow, scikit-learn, Docker
 
-- 🎓 **Statistics and Programming** student at **Kenyatta University**  
-- 🔭 On a mission to become a **top-tier Machine Learning and NLP Engineer**  
-- 🌱 Currently diving deep into **LLMs**, **Stable Diffusion**, and **Generative AI**  
-- 🧠 **Strong analytical foundation** meets **practical implementation**
-- 💬 Let's discuss **Machine Learning, Deep Learning, NLP, and Applied Statistics**  
-- 📫 Connect with me: **olandechris@gmail.com**  
-- 🌍 Based in **Nairobi, Kenya** 🇰🇪
+## Featured Projects
 
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **NLP Sentiment Analyzer** | Real-time sentiment analysis with transformer models | Python, PyTorch, Streamlit |
+| **Statistical ML Pipeline** | End-to-end ML pipeline with statistical validation | Python, scikit-learn, Docker |
+| **Medical Graph RAG System** | Graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, Streamlit, Huggingface |
 
-## 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Machine Learning & AI
-- **Deep Learning** architectures
-- **Natural Language Processing**
-- **Computer Vision** applications
-- **Generative AI** and **LLMs**
-- **MLOps** and model deployment
-
-</td>
-<td width="50%">
-
-### 📊 Data Science & Analytics
-- **Statistical Modeling**
-- **Predictive Analytics**
-- **Data Visualization**
-- **Experimental Design**
-- **A/B Testing** methodologies
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🤖 **NLP Sentiment Analyzer** | Real-time sentiment analysis with transformer models | Python, PyTorch, Streamlit | ![Status](https://img.shields.io/badge/Status-Active-success) |
-| 📊 **Statistical ML Pipeline** | End-to-end ML pipeline with statistical validation | Python, scikit-learn, Docker | ![Status](https://img.shields.io/badge/Status-Complete-blue) |
-| 🏥 **Medical Graph RAG System** | End-to-end graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, HF | ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) |
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
+## Tech Stack
 
 ### Programming Languages
 <p align="center">
@@ -85,7 +32,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/tidymodels-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="tidymodels"/>
 </p>
 
 ### Data Visualization & Analysis
@@ -94,12 +40,11 @@
   <img src="https://img.shields.io/badge/Seaborn-%234A90E2.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
-  <img src="https://img.shields.io/badge/tidyverse-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="tidyverse"/>
 </p>
 
 ### Development & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,mysql" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql" alt="DevOps Tools"/>
 </p>
 
 ### Frameworks & Libraries
@@ -107,92 +52,36 @@
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
-</p>
+</p>  
 
----
-
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chrisolande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chrisolande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolande&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolande&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisolande&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Devoured!
+## Snake Animation
 
 <div align="center">
   <img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </div>
 
+## Connect
+
+- **Email**: olandechris@gmail.com
+- **Twitter**: [@olande73](https://twitter.com/olande73)
+- **LinkedIn**: [Chris Olande](https://www.linkedin.com/in/chris-olande-6557a3238)
+- **Kaggle**: [chrisolande](https://kaggle.com/chrisolande)
+
 ---
 
-## 🏆 GitHub Trophies
+*Based in Nairobi, Kenya 🇰🇪*
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chrisolande&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Python       83 hrs 23 mins  ██████████████████████▓░░   90.58 %
-YAML         4 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Git Config   1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-TOML         1 hr 4 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown     56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
-## 🎓 Learning Journey
-
-<div align="center">
-
-| 📚 Currently Learning | 🎯 Next Goals | 🔄 Exploring |
-|---------------------|--------------|-------------|
-| Advanced Transformers | MLOps at Scale | Quantum ML |
-| Diffusion Models | Production ML Systems | Edge AI |
-| Multi-modal AI | Distributed Training | AutoML |
-
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/olande73)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/chrisolande)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olandechris@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-olande-6557a3238)
-
-</div>
-
----
-
-<div align="center">
-  <h3>💡 "In data we trust, in code we build, in AI we innovate!" 💡</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
