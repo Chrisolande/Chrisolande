@@ -5,6 +5,10 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Statistics+%26+Programming+Student+at+Kenyatta+University;Building+Intelligent+Systems+with+PyTorch+%26+TensorFlow;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Chrisolande?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub Followers" />
+</p>
 ---
 
 ## 🚀 About Me
