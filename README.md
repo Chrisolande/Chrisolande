@@ -2,7 +2,6 @@
 
 **Data Scientist**
 
-
 Statistics and Programming student at Kenyatta University, focused on building intelligent systems through machine learning and natural language processing.
 
 ## Current Focus
@@ -17,7 +16,7 @@ Statistics and Programming student at Kenyatta University, focused on building i
 |---------|-------------|------------|
 | **NLP Sentiment Analyzer** | Real-time sentiment analysis with transformer models | Python, PyTorch, Streamlit |
 | **Statistical ML Pipeline** | End-to-end ML pipeline with statistical validation | Python, scikit-learn, Docker |
-| **Medical Graph RAG System** | Graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, Streamlit, Huggingface |
+| **Medical Graph RAG System** | Graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, Streamlit, HuggingFace |
 
 ## Tech Stack
 
@@ -73,10 +72,14 @@ Statistics and Programming student at Kenyatta University, focused on building i
 
 ## Connect
 
-- **Email**: olandechris@gmail.com
-- **Twitter**: [@olande73](https://twitter.com/olande73)
-- **LinkedIn**: [Chris Olande](https://www.linkedin.com/in/chris-olande-6557a3238)
-- **Kaggle**: [chrisolande](https://kaggle.com/chrisolande)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olandechris@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/olande73)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-olande-6557a3238)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/chrisolande)
+
+</div>
 
 ---
 
