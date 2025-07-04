@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chrisolande?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub Followers" />
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -50,7 +50,7 @@
 |---------|-------------|------------|--------|
 | 🤖 **NLP Sentiment Analyzer** | Real-time sentiment analysis with transformer models | Python, PyTorch, Streamlit | ![Status](https://img.shields.io/badge/Status-Active-success) |
 | 📊 **Statistical ML Pipeline** | End-to-end ML pipeline with statistical validation | Python, scikit-learn, Docker | ![Status](https://img.shields.io/badge/Status-Complete-blue) |
-| 🏥 **Medical Graph RAG System** | End-to-end graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, HF | ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) |
+| 🏥 **Medical Graph RAG System** | End-to-end graph-based retrieval augmented generation for medical data | Python, LangChain, Transformers, HF | ![Status](https://img.shields.io/badge/Status-Complete-blue) |
 
 </div>
 
