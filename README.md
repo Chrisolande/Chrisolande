@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+Systems+That+Matter;Statistics+%26+Programming+Student+at+Kenyatta+University;Turning+Complex+Data+Into+Actionable+Insights;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+Systems+That+Matter;Statistics+%26+Programming+Student+at+Kenyatta+University;Turning+Complex+Data+Into+Actionable+Insights;" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -168,16 +168,13 @@
 
 <br>
 
-## ⏱️ Weekly Development Activity
-
+## 📊 Development Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisolande&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
 </div>
 
-<br>
-
+## ⏱️ Weekly Coding Time
 <!--START_SECTION:waka-->
-
 ```txt
 Python       83 hrs 46 mins  ██████████████████████░░░   87.68 %
 JSON         5 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
@@ -185,9 +182,7 @@ Markdown     3 hrs 29 mins   █░░░░░░░░░░░░░░░░
 Git Config   1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 Bash         28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
-
 <!--END_SECTION:waka-->
-
 <br>
 
 ## 🎯 Current Focus
@@ -250,11 +245,6 @@ Bash         28 mins         ░░░░░░░░░░░░░░░░░
       <td align="center" width="20%">
         <a href="https://kaggle.com/chrisolande">
           <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-        </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://orcid.org/0000-0000-0000-0000">
-          <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
         </a>
       </td>
     </tr>
