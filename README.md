@@ -175,13 +175,15 @@
 
 ## ⏱️ Weekly Coding Time
 <!--START_SECTION:waka-->
+
 ```txt
-Python       83 hrs 46 mins  ██████████████████████░░░   87.68 %
-JSON         5 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Markdown     3 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Git Config   1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Bash         28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python       75 hrs 41 mins  █████████████████████▒░░░   84.88 %
+JSON         7 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Markdown     3 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Git Config   1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Bash         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
+
 <!--END_SECTION:waka-->
 <br>
 
