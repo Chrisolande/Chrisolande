@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Chrisolande?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-58A6FF?style=flat-square" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
