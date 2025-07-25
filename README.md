@@ -19,7 +19,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Chrisolande&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Chrisolande&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=300" alt="GitHub Stats"/>
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolande&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisolande&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1&v=2" alt="Top Languages"/>
 </div>
 
 <br>
