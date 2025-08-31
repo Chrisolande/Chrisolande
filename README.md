@@ -173,6 +173,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisolande&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
 </div>
 
+## ⏱️ Weekly Coding Time
+<!--START_SECTION:waka-->
+
+```txt
+R                    45 hrs 16 mins  ███████████░░░░░░░░░░░░░░   43.63 %
+Jupyter              35 hrs 4 mins   ████████▒░░░░░░░░░░░░░░░░   33.80 %
+Python               19 hrs 34 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Markdown             54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+TOML                 27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
+<!--END_SECTION:waka-->
+<br>
+
 ## 🎯 Current Focus
 
 <div align="center">
