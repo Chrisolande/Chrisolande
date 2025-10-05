@@ -177,11 +177,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       75 hrs 27 mins  ███████████████████████░░   91.50 %
-Jupyter      4 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-JSON         55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Git Config   28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Other        16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
