@@ -203,10 +203,12 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-```text
+
+```txt
 SQL       5 hrs 28 mins   ████████████████████████▓   98.24 %
 Jupyter   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
