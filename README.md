@@ -1,9 +1,10 @@
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20NLP%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Statistician%20|%20ML%20Engineer%20|%20NLP%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+Systems+That+Matter;Statistics+%26+Programming+Student+at+Kenyatta+University;Turning+Complex+Data+Into+Actionable+Insights;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+Systems+That+Matter;Statistician+%26+Programmer+at+Kenyatta+University;Turning+Complex+Data+Into+Actionable+Insights;" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -24,7 +25,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chrisolande&theme=github_dark" alt="GitHub Stats"/>
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisolande&theme=dark&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
@@ -132,14 +133,16 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🤖 NLP Sentiment Analyzer</h3>
-<p><em>Real-time sentiment analysis with transformer models</em></p>
+<h3>⛈️ Australian Rainfall Dynamics</h3>
+<p><em>Hierarchical ZI-Gamma analysis modeling 142k+ observations</em></p>
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="BERT"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/Mixed--Effects-orange?style=flat-square" alt="GLMM"/>
+<img src="https://img.shields.io/badge/Quarto-blue?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
 </p>
-<img src="https://img.shields.io/badge/Status-Active-FF6B35?style=flat-square" alt="Active"/>
+<a href="https://chrisolande.github.io/australian-rainfall-dynamics/">
+<img src="https://img.shields.io/badge/View%20Full%20Report-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Report"/>
+</a>
 </td>
 <td align="center" width="33%">
 <h3>📊 Bayesian ML Pipeline</h3>
@@ -202,13 +205,10 @@
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-
 ```txt
 No activity tracked
-```
 
-<!--END_SECTION:waka-->
+```
 
 </div>
 
