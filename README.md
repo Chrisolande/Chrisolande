@@ -1,16 +1,15 @@
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Statistician%20|%20ML%20Engineer%20|%20NLP%20Enthusiast&descAlignY=55&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Statistician%20%7C%20Statistical%20Data%20Scientist%20%7C%20Kenyatta%20University&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Building+AI+Systems+That+Matter;Statistician+%26+Programmer+at+Kenyatta+University;Turning+Complex+Data+Into+Actionable+Insights;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Bayesian+Computation+and+Inference;Advanced+Statistical+Modeling;Statistics+%26+Programming+Student+at+Kenyatta+University" alt="Typing Animation" />
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Chrisolande?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-58A6FF?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Focus-Bayesian%20Computation-58A6FF?style=flat-square" alt="Focus"/>
 <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
 </div>
 
@@ -35,9 +34,169 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chrisolande&theme=github_dark" alt="Top Languages"/>
 </div>
 
+
+---
+
+## 🚀 Featured Projects
+
+### **Statistical Inference**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>⛈️ Australian Rainfall Dynamics</h3>
+<p><em>Zero-inflated GLMM with hierarchical random effects</em></p>
+<p>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/Mixed--Effects-orange?style=flat-square" alt="GLMM"/>
+<img src="https://img.shields.io/badge/Quarto-blue?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
+</p>
+<p><strong>Methods</strong>: Zero-Inflated Gamma GLMM, random intercepts/slopes, DHARMa diagnostics, Markov chain analysis</p>
+<p><strong>Data</strong>: 142,000+ daily observations across 49 locations</p>
+<p><strong>Key Features</strong>: Rigorous model selection (M0-M6), spatial heterogeneity estimation, temporal dependence quantification</p>
+<a href="https://chrisolande.github.io/australian-rainfall-dynamics/">
+<img src="https://img.shields.io/badge/View%20Full%20Report-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Report"/>
+</a>
+</td>
+<td align="center" width="33%">
+<h3>🔄 Bayesian Time Series & Causal Inference</h3>
+<p><em>Scalable Bayesian inference for policy evaluation via INLA</em></p>
+<p>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/INLA-FF7F0E?style=flat-square" alt="INLA"/>
+<img src="https://img.shields.io/badge/Causal-9B59B6?style=flat-square" alt="Causal"/>
+</p>
+<p><strong>Methods</strong>: Bayesian Structural Time Series, Laplace approximation via INLA, causal identification assumptions, interrupted time series design</p>
+<p><strong>Focus</strong>: Efficient Bayesian computation for large time series data, posterior uncertainty quantification</p>
+<img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
+</td>
+<td align="center" width="33%">
+<h3>🗺️ Spatial Hierarchical Bayesian Models</h3>
+<p><em>SPDE approximations for efficient spatial inference</em></p>
+<p>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/INLA-FF7F0E?style=flat-square" alt="INLA"/>
+<img src="https://img.shields.io/badge/Spatial-1ABC9C?style=flat-square" alt="Spatial"/>
+</p>
+<p><strong>Methods</strong>: SPDE approximation, CAR models, spatial random effects, Bayesian hierarchical inference</p>
+<p><strong>Focus</strong>: Geographic autocorrelation, efficient computation for spatial GLMMs, posterior spatial field estimation</p>
+<img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### **Machine Learning & Data Science**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>📊 Bayesian ML Pipeline</h3>
+<p><em>End-to-end Bayesian ML pipeline with statistical validation</em></p>
+<p>
+<img src="https://img.shields.io/badge/PyMC3-FF7F0E?style=flat-square&logo=python&logoColor=white" alt="PyMC3"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+</td>
+<td align="center" width="33%">
+<h3>🏥 Medical Research Assistant</h3>
+<p><em>Graph-based retrieval augmented generation for medical research</em></p>
+<p>
+<img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square&logo=networkx&logoColor=white" alt="NetworkX"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+<a href="https://github.com/Chrisolande/Medical-Research-Assistant">
+<img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+</td>
+<td align="center" width="33%">
+<h3>🩺 Medical Report Generation</h3>
+<p><em>Vision-language models for clinical documentation</em></p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Vision%20Transformers-FF6B6B?style=flat-square" alt="ViT"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FFB347?style=flat-square" alt="DL"/>
+</p>
+<img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
+<a href="https://github.com/Chrisolande/MedReportAI">
+<img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 ## 🧠 AI & Machine Learning Arsenal
+
+### **Statistical Computing & Inference**
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"/><br/>
+<strong>R</strong><br/>
+<sub>Statistical Analysis</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg" width="48" height="48" alt="Tidyverse"/><br/>
+<strong>Tidyverse</strong><br/>
+<sub>Data Wrangling</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/ggplot2.svg" width="48" height="48" alt="ggplot2"/><br/>
+<strong>ggplot2</strong><br/>
+<sub>Data Visualization</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" width="48" height="48" alt="tidymodels"/><br/>
+<strong>tidymodels</strong><br/>
+<sub>ML Framework</sub>
+</td>
+<td align="center" width="20%">
+<strong>glmmTMB</strong><br/>
+<sub>Generalized Linear Mixed Models</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<strong>INLA</strong><br/>
+<sub>Bayesian Inference</sub>
+</td>
+<td align="center" width="20%">
+<strong>DHARMa</strong><br/>
+<sub>Residual Diagnostics</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+<strong>Git</strong><br/>
+<sub>Version Control</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/><br/>
+<strong>Quarto</strong><br/>
+<sub>Reproducible Docs</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
+<strong>PostgreSQL</strong><br/>
+<sub>Database</sub>
+</td>
+</tr>
+</table>
+</div>
+
+### **Machine Learning & Deep Learning**
 
 <div align="center">
 <table>
@@ -48,9 +207,14 @@
 <sub>Primary Language</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"/><br/>
-<strong>R</strong><br/>
-<sub>Statistical Analysis</sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/>
+<strong>NumPy</strong><br/>
+<sub>Scientific Computing</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br/>
+<strong>Pandas</strong><br/>
+<sub>Data Manipulation</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/>
@@ -62,44 +226,17 @@
 <strong>TensorFlow</strong><br/>
 <sub>Neural Networks</sub>
 </td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
-<strong>Docker</strong><br/>
-<sub>MLOps</sub>
-</td>
 </tr>
 <tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/>
-<strong>NumPy</strong><br/>
-<sub>Scientific Computing</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg" width="48" height="48" alt="Tidyverse"/><br/>
-<strong>Tidyverse</strong><br/>
-<sub>Data Wrangling</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/><br/>
-<strong>Pandas</strong><br/>
-<sub>Data Manipulation</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/ggplot2.svg" width="48" height="48" alt="ggplot2"/><br/>
-<strong>ggplot2</strong><br/>
-<sub>Data Visualization</sub>
-</td>
 <td align="center" width="20%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/><br/>
 <strong>Scikit-learn</strong><br/>
 <sub>Machine Learning</sub>
 </td>
-</tr>
-<tr>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" width="48" height="48" alt="tidymodels"/><br/>
-<strong>tidymodels</strong><br/>
-<sub>ML Framework</sub>
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
+<strong>Docker</strong><br/>
+<sub>MLOps</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
@@ -112,80 +249,9 @@
 <sub>Notebooks</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
-<strong>PostgreSQL</strong><br/>
-<sub>Database</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>
 <strong>MongoDB</strong><br/>
 <sub>NoSQL</sub>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>⛈️ Australian Rainfall Dynamics</h3>
-<p><em>Hierarchical ZI-Gamma analysis modeling 142k+ observations</em></p>
-<p>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/Mixed--Effects-orange?style=flat-square" alt="GLMM"/>
-<img src="https://img.shields.io/badge/Quarto-blue?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
-</p>
-<a href="https://chrisolande.github.io/australian-rainfall-dynamics/">
-<img src="https://img.shields.io/badge/View%20Full%20Report-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Report"/>
-</a>
-</td>
-<td align="center" width="33%">
-<h3>📊 Bayesian ML Pipeline</h3>
-<p><em>End-to-end Bayesian ML pipeline with statistical validation</em></p>
-<p>
-<img src="https://img.shields.io/badge/PyMC3-FF7F0E?style=flat-square&logo=python&logoColor=white" alt="PyMC3"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
-</td>
-<td align="center" width="33%">
-<h3>🏥 Medical Graph RAG</h3>
-<p><em>Graph-based retrieval augmented generation for medical data</em></p>
-<p>
-<img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square&logo=networkx&logoColor=white" alt="NetworkX"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
-<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🧠-Deep%20Learning%20Architectures-58A6FF?style=for-the-badge" alt="Deep Learning"/><br/>
-<img src="https://img.shields.io/badge/🔤-Natural%20Language%20Processing-58A6FF?style=for-the-badge" alt="NLP"/><br/>
-<img src="https://img.shields.io/badge/👁-Computer%20Vision-58A6FF?style=for-the-badge" alt="Computer Vision"/><br/>
-<img src="https://img.shields.io/badge/📊-Bayesian%20Statistics-58A6FF?style=for-the-badge" alt="Bayesian Stats"/>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🤖-Large%20Language%20Models-58A6FF?style=for-the-badge" alt="LLMs"/><br/>
-<img src="https://img.shields.io/badge/🎨-Generative%20AI-58A6FF?style=for-the-badge" alt="Generative AI"/><br/>
-<img src="https://img.shields.io/badge/⚙️-MLOps%20&%20Deployment-58A6FF?style=for-the-badge" alt="MLOps"/><br/>
-<img src="https://img.shields.io/badge/🔬-Statistical%20Inference-58A6FF?style=for-the-badge" alt="Statistical Inference"/>
 </td>
 </tr>
 </table>
