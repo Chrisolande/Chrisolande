@@ -271,10 +271,8 @@
 
 <div align="center">
 
-```txt
-No activity tracked
-
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
