@@ -270,6 +270,14 @@
 ## ⏱️ Weekly Coding Time
 
 <!--START_SECTION:waka-->
+
+```txt
+R         4 hrs 11 mins         ████████████████████░░░░░   80.15 %
+Python    57 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+Jupyter   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+SQL       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
