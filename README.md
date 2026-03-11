@@ -119,13 +119,13 @@
 </td>
 <td align="center" width="33%">
 <h3>🩺 Medical Report Generation</h3>
-<p><em>Vision-language models for clinical documentation</em></p>
+<p><em>Agentic LangGraph pipeline for evidence-based medical report synthesis</em></p>
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Vision%20Transformers-FF6B6B?style=flat-square" alt="ViT"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FFB347?style=flat-square" alt="DL"/>
+<img src="https://img.shields.io/badge/DSPy-FF4B4B?style=flat-square&logo=python&logoColor=white" alt="DSPy"/>
+<img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
-<img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
+<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <a href="https://github.com/Chrisolande/MedReportAI">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
