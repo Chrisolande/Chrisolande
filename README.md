@@ -272,10 +272,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter    0 secs                ███████████▒░░░░░░░░░░░░░   45.67 %
-Python     0 secs                █████████▒░░░░░░░░░░░░░░░   37.42 %
-JSON       0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Markdown   0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
