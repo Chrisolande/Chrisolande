@@ -48,12 +48,12 @@
 <p><em>Zero-inflated GLMM with hierarchical random effects</em></p>
 <p>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/Mixed--Effects-orange?style=flat-square" alt="GLMM"/>
-<img src="https://img.shields.io/badge/Quarto-blue?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
+<img src="https://img.shields.io/badge/glmmTMB-orange?style=flat-square" alt="glmmTMB"/>
+<img src="https://img.shields.io/badge/Quarto-4B9FD5?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
 </p>
-<p><strong>Methods</strong>: Zero-Inflated Gamma GLMM, random intercepts/slopes, DHARMa diagnostics, Markov chain analysis</p>
-<p><strong>Data</strong>: 142,000+ daily observations across 49 locations</p>
-<p><strong>Key Features</strong>: Rigorous model selection (M0–M6), spatial heterogeneity estimation, temporal dependence quantification</p>
+<p>Zero-Inflated Gamma GLMM across 142k+ daily observations from 49 Australian locations. Covers model selection (M0–M6), DHARMa residual diagnostics, spatial heterogeneity estimation, and Markov chain temporal dependence analysis.</p>
+<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+<br/><br/>
 <a href="https://chrisolande.github.io/australian-rainfall-dynamics/">
 <img src="https://img.shields.io/badge/View%20Full%20Report-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Report"/>
 </a>
@@ -66,8 +66,7 @@
 <img src="https://img.shields.io/badge/INLA-FF7F0E?style=flat-square" alt="INLA"/>
 <img src="https://img.shields.io/badge/Causal-9B59B6?style=flat-square" alt="Causal"/>
 </p>
-<p><strong>Methods</strong>: Bayesian Structural Time Series, Laplace approximation via INLA, causal identification assumptions, interrupted time series design</p>
-<p><strong>Focus</strong>: Efficient Bayesian computation for large time series data, posterior uncertainty quantification</p>
+<p>Bayesian Structural Time Series for policy evaluation via INLA. Laplace approximation, causal identification assumptions, and interrupted time series design with a focus on efficient posterior computation and uncertainty quantification.</p>
 <img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
 </td>
 <td align="center" width="33%">
@@ -78,8 +77,7 @@
 <img src="https://img.shields.io/badge/INLA-FF7F0E?style=flat-square" alt="INLA"/>
 <img src="https://img.shields.io/badge/Spatial-1ABC9C?style=flat-square" alt="Spatial"/>
 </p>
-<p><strong>Methods</strong>: SPDE approximation, CAR models, spatial random effects, Bayesian hierarchical inference</p>
-<p><strong>Focus</strong>: Geographic autocorrelation, efficient computation for spatial GLMMs, posterior spatial field estimation</p>
+<p>SPDE approximations for spatial GLMMs. CAR models, spatial random effects, and Bayesian hierarchical inference with geographic autocorrelation modelling and posterior spatial field estimation.</p>
 <img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
 </td>
 </tr>
@@ -95,13 +93,13 @@
 <tr>
 <td align="center" width="33%">
 <h3>🧬 Clinical Trial Agent</h3>
+<p><em>Multi-agent patient-to-trial matching pipeline</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/LangGraph-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-<p><em>Multi-agent pipeline matching patients to clinical trials</em></p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/>
 <a href="https://github.com/Chrisolande/clinical_trial_agent">
@@ -110,10 +108,11 @@
 </td>
 <td align="center" width="33%">
 <h3>🏥 Medical Research Assistant</h3>
-<p><em>Graph-based retrieval augmented generation for medical research</em></p>
+<p><em>Graph-based RAG pipeline for medical literature</em></p>
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square&logo=networkx&logoColor=white" alt="NetworkX"/>
+<img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square" alt="NetworkX"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
@@ -124,11 +123,11 @@
 </td>
 <td align="center" width="33%">
 <h3>🩺 Medical Report Generation</h3>
-<p><em>Agentic LangGraph pipeline for evidence-based medical report synthesis</em></p>
+<p><em>Agentic RAG pipeline for biomedical report synthesis</em></p>
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LangGraph-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/DSPy-FF4B4B?style=flat-square&logo=python&logoColor=white" alt="DSPy"/>
-<img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/>
