@@ -34,7 +34,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chrisolande&theme=github_dark" alt="Top Languages"/>
 </div>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -54,7 +53,7 @@
 </p>
 <p><strong>Methods</strong>: Zero-Inflated Gamma GLMM, random intercepts/slopes, DHARMa diagnostics, Markov chain analysis</p>
 <p><strong>Data</strong>: 142,000+ daily observations across 49 locations</p>
-<p><strong>Key Features</strong>: Rigorous model selection (M0-M6), spatial heterogeneity estimation, temporal dependence quantification</p>
+<p><strong>Key Features</strong>: Rigorous model selection (M0–M6), spatial heterogeneity estimation, temporal dependence quantification</p>
 <a href="https://chrisolande.github.io/australian-rainfall-dynamics/">
 <img src="https://img.shields.io/badge/View%20Full%20Report-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Report"/>
 </a>
@@ -89,20 +88,25 @@
 
 ---
 
-### **Machine Learning & Data Science**
+### **Machine Learning & AI Engineering**
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>📊 Bayesian ML Pipeline</h3>
-<p><em>End-to-end Bayesian ML pipeline with statistical validation</em></p>
+<h3>🧬 Clinical Trial Agent</h3>
 <p>
-<img src="https://img.shields.io/badge/PyMC3-FF7F0E?style=flat-square&logo=python&logoColor=white" alt="PyMC3"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LangGraph-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
+<p><em>Multi-agent pipeline matching patients to clinical trials</em></p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+<br/>
+<a href="https://github.com/Chrisolande/clinical_trial_agent">
+<img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
 </td>
 <td align="center" width="33%">
 <h3>🏥 Medical Research Assistant</h3>
@@ -113,6 +117,7 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+<br/>
 <a href="https://github.com/Chrisolande/Medical-Research-Assistant">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
@@ -126,6 +131,7 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+<br/>
 <a href="https://github.com/Chrisolande/MedReportAI">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
@@ -136,7 +142,7 @@
 
 ---
 
-## 🧠 AI & Machine Learning Arsenal
+## 🧠 Tech Stack
 
 ### **Statistical Computing & Inference**
 
@@ -196,7 +202,7 @@
 </table>
 </div>
 
-### **Machine Learning & Deep Learning**
+### **Machine Learning & AI Engineering**
 
 <div align="center">
 <table>
@@ -287,7 +293,7 @@ No activity tracked
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Connect
 
 <div align="center">
 <table>
