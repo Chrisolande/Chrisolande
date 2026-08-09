@@ -92,20 +92,22 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🧬 Clinical Trial Agent</h3>
-<p><em>Multi-agent patient-to-trial matching pipeline</em></p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/LangGraph-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
-<br/>
-<a href="https://github.com/Chrisolande/clinical_trial_agent">
-<img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-</a>
-</td>
+    <h3>⚡ TSMixer M5 Hierarchical Forecasting</h3>
+   <p><em>Probabilistic time-series forecasting & production inference service</em></p>
+   <p>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    </p>
+    <p>Extended TSMixer architecture with Negative Binomial loss, sub-100ms 12-level hierarchy aggregation across 42,840 nodes, Optuna HPO, W&B model
+  registry, and FastAPI inference container.</p>
+    <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+    <br/><br/>
+    <a href="https://github.com/Chrisolande/TSMixer-Ext-HTS">
+    <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+    </a>
+    </td>
 <td align="center" width="33%">
 <h3>🏥 Medical Research Assistant</h3>
 <p><em>Graph-based RAG pipeline for medical literature</em></p>
