@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Statistician%20%7C%20Statistical%20Data%20Scientist%20%7C%20Kenyatta%20University&descAlignY=55&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Statistician%20%7C%20Statistical%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Bayesian+Computation+and+Inference;Advanced+Statistical+Modeling;Statistics+%26+Programming+Student+at+Kenyatta+University" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Statistical+Modeling+%26+Applied+ML;Hierarchical+%26+Causal+Inference;Statistician+%7C+ML+Engineer" alt="Typing Animation" />
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Chrisolande?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
-<img src="https://img.shields.io/badge/Focus-Bayesian%20Computation-58A6FF?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Focus-Statistical%20Modeling%20%26%20ML-58A6FF?style=flat-square" alt="Focus"/>
 <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
 </div>
 
@@ -38,12 +38,10 @@
 
 ## 🚀 Featured Projects
 
-### **Statistical Inference**
-
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <h3>⛈️ Australian Rainfall Dynamics</h3>
 <p><em>Zero-inflated GLMM with hierarchical random effects</em></p>
 <p>
@@ -58,40 +56,7 @@
 <img src="https://img.shields.io/badge/View%20Full%20Report-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Report"/>
 </a>
 </td>
-<td align="center" width="33%">
-<h3>🔄 Bayesian Time Series & Causal Inference</h3>
-<p><em>Scalable Bayesian inference for policy evaluation via INLA</em></p>
-<p>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/INLA-FF7F0E?style=flat-square" alt="INLA"/>
-<img src="https://img.shields.io/badge/Causal-9B59B6?style=flat-square" alt="Causal"/>
-</p>
-<p>Bayesian Structural Time Series for policy evaluation via INLA. Laplace approximation, causal identification assumptions, and interrupted time series design with a focus on efficient posterior computation and uncertainty quantification.</p>
-<img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
-</td>
-<td align="center" width="33%">
-<h3>🗺️ Spatial Hierarchical Bayesian Models</h3>
-<p><em>SPDE approximations for efficient spatial inference</em></p>
-<p>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-<img src="https://img.shields.io/badge/INLA-FF7F0E?style=flat-square" alt="INLA"/>
-<img src="https://img.shields.io/badge/Spatial-1ABC9C?style=flat-square" alt="Spatial"/>
-</p>
-<p>SPDE approximations for spatial GLMMs. CAR models, spatial random effects, and Bayesian hierarchical inference with geographic autocorrelation modelling and posterior spatial field estimation.</p>
-<img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=flat-square" alt="In Progress"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-### **Machine Learning Engineering**
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <h3>⚡ TSMixer M5 Hierarchical Forecasting</h3>
 <p><em>Probabilistic time-series forecasting & production inference service</em></p>
 <p>
@@ -100,14 +65,16 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-<p>Extended TSMixer architecture with Negative Binomial loss, sub-100ms 12-level hierarchy aggregation across 42,840 nodes, Optuna HPO, W&B model registry, and a FastAPI inference container. Achieves <strong>0.575 WRMSSE</strong> on the M5 evaluation set.</p>
+<p>End-to-end hierarchical forecasting system: Negative Binomial probabilistic head, sub-100ms sparse-matrix hierarchy aggregation across 42,840 nodes, parallel Optuna HPO, W&B experiment tracking, and a Dockerized FastAPI inference service. <strong>0.575 WRMSSE</strong> on the M5 evaluation set.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://github.com/Chrisolande/TSMixer-Ext-HTS">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <h3>🕸️ CaT-GNN: Causal Temporal GNN</h3>
 <p><em>Invariant fraud detection under distribution shift</em></p>
 <p>
@@ -115,22 +82,22 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="Lightning"/>
 </p>
-<p>Harmonic Time2Vec encoding, multi-head relational attention, and counterfactual Beta-mixup backdoor adjustment for causal vs. spurious neighborhood partitioning. <strong>0.709 AUPRC</strong> on S-FFSD across 5 seeds, beating published baselines.</p>
+<p>Causal graph neural network for fraud detection: harmonic time encoding, attention-based partitioning of causal vs. spurious transaction neighborhoods, and counterfactual Beta-mixup intervention to enforce invariance under distribution shift. <strong>0.709 AUPRC</strong> on S-FFSD across 5 seeds, beating the original paper's reported metrics.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://github.com/Chrisolande/invariant-CaT-GNN">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 </td>
-<td align="center" width="33%">
-<h3>🔁 RecRec: Recursive Refinement</h3>
+<td align="center" width="50%">
+<h3>🔁 Recursive Latent Refinement Recommender</h3>
 <p><em>Dual-loop latent refinement for sequential recommendation</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="Lightning"/>
 </p>
-<p>Modular implementation of recursive preference refinement, replacing autoregressive transformers with iterative residual state updates over a shared MLP core. Evaluated on Amazon Luxury Beauty with SBERT item embeddings and EMA-stabilized training.</p>
+<p>Sequential recommender built around a shared MLP core with inner/outer refinement loops and evidence-anchored correction gating, modularized into a 10-module production package with EMA-stabilized training on Amazon Luxury Beauty interaction data.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://github.com/Chrisolande/recursive-refinement-recsys">
