@@ -86,54 +86,54 @@
 
 ---
 
-### **Machine Learning & AI Engineering**
+### **Machine Learning Engineering**
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
-    <h3>⚡ TSMixer M5 Hierarchical Forecasting</h3>
-   <p><em>Probabilistic time-series forecasting & production inference service</em></p>
-   <p>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-    </p>
-    <p>Extended TSMixer architecture with Negative Binomial loss, sub-100ms 12-level hierarchy aggregation across 42,840 nodes, Optuna HPO, W&B model
-  registry, and FastAPI inference container.</p>
-    <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
-    <br/><br/>
-    <a href="https://github.com/Chrisolande/TSMixer-Ext-HTS">
-    <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-    </a>
-    </td>
-<td align="center" width="33%">
-<h3>🏥 Medical Research Assistant</h3>
-<p><em>Graph-based RAG pipeline for medical literature</em></p>
+<h3>⚡ TSMixer M5 Hierarchical Forecasting</h3>
+<p><em>Probabilistic time-series forecasting & production inference service</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/NetworkX-FF7F0E?style=flat-square" alt="NetworkX"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
+<p>Extended TSMixer architecture with Negative Binomial loss, sub-100ms 12-level hierarchy aggregation across 42,840 nodes, Optuna HPO, W&B model registry, and a FastAPI inference container. Achieves <strong>0.575 WRMSSE</strong> on the M5 evaluation set.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
-<br/>
-<a href="https://github.com/Chrisolande/Medical-Research-Assistant">
+<br/><br/>
+<a href="https://github.com/Chrisolande/TSMixer-Ext-HTS">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 </td>
 <td align="center" width="33%">
-<h3>🩺 Medical Report Generation</h3>
-<p><em>Agentic RAG pipeline for biomedical report synthesis</em></p>
+<h3>🕸️ CaT-GNN: Causal Temporal GNN</h3>
+<p><em>Invariant fraud detection under distribution shift</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/LangGraph-339933?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/DSPy-FF4B4B?style=flat-square&logo=python&logoColor=white" alt="DSPy"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="Lightning"/>
 </p>
+<p>Harmonic Time2Vec encoding, multi-head relational attention, and counterfactual Beta-mixup backdoor adjustment for causal vs. spurious neighborhood partitioning. <strong>0.709 AUPRC</strong> on S-FFSD across 5 seeds, beating published baselines.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
-<br/>
-<a href="https://github.com/Chrisolande/MedReportAI">
+<br/><br/>
+<a href="https://github.com/Chrisolande/invariant-CaT-GNN">
+<img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+</td>
+<td align="center" width="33%">
+<h3>🔁 RecRec: Recursive Refinement</h3>
+<p><em>Dual-loop latent refinement for sequential recommendation</em></p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="Lightning"/>
+</p>
+<p>Modular implementation of recursive preference refinement, replacing autoregressive transformers with iterative residual state updates over a shared MLP core. Evaluated on Amazon Luxury Beauty with SBERT item embeddings and EMA-stabilized training.</p>
+<img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
+<br/><br/>
+<a href="https://github.com/Chrisolande/recursive-refinement-recsys">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 </td>
@@ -203,7 +203,7 @@
 </table>
 </div>
 
-### **Machine Learning & AI Engineering**
+### **Machine Learning Engineering**
 
 <div align="center">
 <table>
