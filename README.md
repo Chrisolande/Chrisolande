@@ -90,14 +90,14 @@
 </a>
 </td>
 <td align="center" width="50%">
-<h3>🔁 Recursive Latent Refinement Recommender</h3>
+<h3>🔁 RefineRec: Iterative Latent Refinement Recommender</h3>
 <p><em>Dual-loop latent refinement for sequential recommendation</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="Lightning"/>
 </p>
-<p>Sequential recommender built around a shared MLP core with inner/outer refinement loops and evidence-anchored correction gating, modularized into a 10-module production package with EMA-stabilized training on Amazon Luxury Beauty interaction data.</p>
+<p>Sequential recommender built around a shared MLP core with inner/outer latent refinement loops, an evidence-anchored correction gate, and zero-cold-start SBERT item embeddings. Modularized into a 10-module production package, tuned via a fully automated W&B Bayesian HPO pipeline that runs a 15-trial search, confirms the winner across 5 seeds, and self-publishes the report. <strong>0.586 ± 0.008 NDCG@10</strong> (best seed: 0.592) on Amazon Luxury Beauty interaction data.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://github.com/Chrisolande/recursive-refinement-recsys">
