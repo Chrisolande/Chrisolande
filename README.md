@@ -43,13 +43,13 @@
 <tr>
 <td align="center" width="50%">
 <h3>⛈️ Australian Rainfall Dynamics</h3>
-<p><em>Zero-inflated GLMM with hierarchical random effects</em></p>
+<p><em>Hierarchical Zero-Inflated Gamma Modeling</em></p>
 <p>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
 <img src="https://img.shields.io/badge/glmmTMB-orange?style=flat-square" alt="glmmTMB"/>
 <img src="https://img.shields.io/badge/Quarto-4B9FD5?style=flat-square&logo=quarto&logoColor=white" alt="Quarto"/>
 </p>
-<p>Zero-Inflated Gamma GLMM across 142k+ daily observations from 49 Australian locations. Covers model selection (M0–M6), DHARMa residual diagnostics, spatial heterogeneity estimation, and Markov chain temporal dependence analysis.</p>
+<p>Models 142k+ daily rainfall observations across 49 stations using a Mixed-Effects ZIG framework that separates occurrence (logistic hurdle) from intensity (Gamma GLMM). Includes circular wind decomposition, ghost-sensor provenance tracking, DHARMa residual diagnostics (dispersion p=0.152, ZI ratio=1.00), and cumulative model selection (ΔAIC=−61,518 from null). Future work: EVT tail augmentation + INLA.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://chrisolande.github.io/australian-rainfall-dynamics/">
@@ -57,15 +57,15 @@
 </a>
 </td>
 <td align="center" width="50%">
-<h3>⚡ TSMixer M5 Hierarchical Forecasting</h3>
-<p><em>Probabilistic time-series forecasting & production inference service</em></p>
+<h3>⚡ TSMixer-Ext-HTS: Probabilistic Retail Forecasting</h3>
+<p><em>Production Hierarchical Forecasting Service</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-<p>End-to-end hierarchical forecasting system: Negative Binomial probabilistic head, sub-100ms sparse-matrix hierarchy aggregation across 42,840 nodes, parallel Optuna HPO, W&B experiment tracking, and a Dockerized FastAPI inference service. <strong>0.575 WRMSSE</strong> on the M5 evaluation set.</p>
+<p>End-to-end M5 forecasting system: Negative Binomial probabilistic head, GPU-accelerated sparse hierarchy aggregation (&lt;100ms across 42,840 nodes), Optuna HPO with W&B tracking, and Dockerized FastAPI service with training-serving parity via artifact bundles. Achieves <strong>0.575 WRMSSE</strong> on M5 evaluation set with multi-window rolling-origin validation.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://github.com/Chrisolande/TSMixer-Ext-HTS">
@@ -75,14 +75,14 @@
 </tr>
 <tr>
 <td align="center" width="50%">
-<h3>🕸️ CaT-GNN: Causal Temporal GNN</h3>
-<p><em>Invariant fraud detection under distribution shift</em></p>
+<h3>🕸️ CounterFraud-GNN: Invariant Fraud Detection</h3>
+<p><em>Causal Temporal Graph Learning</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="Lightning"/>
 </p>
-<p>Causal graph neural network for fraud detection: harmonic time encoding, attention-based partitioning of causal vs. spurious transaction neighborhoods, and counterfactual Beta-mixup intervention to enforce invariance under distribution shift. <strong>0.709 AUPRC</strong> on S-FFSD across 5 seeds, beating the original paper's reported metrics.</p>
+<p>Eliminates shortcut learning in financial fraud detection via counterfactual interventions on temporal graphs. Attention-based causal/environment partitioning + Beta-mixup backdoor adjustment enforce prediction invariance under distribution shift. <strong>0.709 ± 0.131 AUPRC</strong> on S-FFSD (5 seeds, chronological split), exceeding the original paper's reported performance.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://github.com/Chrisolande/invariant-CaT-GNN">
@@ -90,14 +90,14 @@
 </a>
 </td>
 <td align="center" width="50%">
-<h3>🔁 RefineRec: Iterative Latent Refinement Recommender</h3>
-<p><em>Dual-loop latent refinement for sequential recommendation</em></p>
+<h3>🔁 RefineRec: Iterative Latent Refinement</h3>
+<p><em>Automated Sequential Recommendation</em></p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" alt="Lightning"/>
 </p>
-<p>Sequential recommender built around a shared MLP core with inner/outer latent refinement loops, an evidence-anchored correction gate, and zero-cold-start SBERT item embeddings. Modularized into a 10-module production package, tuned via a fully automated W&B Bayesian HPO pipeline that runs a 15-trial search, confirms the winner across 5 seeds, and self-publishes the report. <strong>0.586 ± 0.008 NDCG@10</strong> (best seed: 0.592) on Amazon Luxury Beauty interaction data.</p>
+<p>Dual-loop sequential recommender with evidence-anchored correction gates and zero-cold-start SBERT embeddings. Fully automated W&B Bayesian HPO pipeline (15-trial search → 5-seed confirmation → self-published report). Modular 10-module production package. <strong>0.586 ± 0.008 NDCG@10</strong> on Amazon Luxury Beauty with best-to-terminal drop of only 0.0019.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
 <a href="https://github.com/Chrisolande/recursive-refinement-recsys">
