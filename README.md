@@ -71,6 +71,9 @@
 <a href="https://github.com/Chrisolande/TSMixer-Ext-HTS">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
+<a href="https://wandb.ai/olandechris-/tsmixer-m5/reports/TSMixer-M5-Test-WRMSSE-Optimization-Report--VmlldzoxNzY5MzQ3NA?accessToken=n6bpmf6yiadweiscxlo7ggks6p47i209dp6l1h59bmqr2gqxl2qdxufj9arh4uhw">
+<img src="https://img.shields.io/badge/W%26B%20Report-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B Report"/>
+</a>
 </td>
 </tr>
 <tr>
@@ -102,6 +105,9 @@
 <br/><br/>
 <a href="https://github.com/Chrisolande/recursive-refinement-recsys">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+<a href="https://wandb.ai/olandechris-/refinerec/reports/RefineRec-Bayesian-Optimization-and-Five-Seed-Validation--VmlldzoxNzc5NjQwNA?accessToken=egmmekquwgr4ygitbfcg578evciwogl5q9br61ooksbnaenypd4qznvduncqizzh">
+<img src="https://img.shields.io/badge/W%26B%20Report-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B Report"/>
 </a>
 </td>
 </tr>
