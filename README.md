@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Statistician%20%7C%20Statistical%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chris%20Olande&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20Scientist%20%7C%20ML%20Engineer%20%7C%20Statistical%20Modeling&descAlignY=55&descAlign=50" alt="Header"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Statistical+Modeling+%26+Applied+ML;Hierarchical+%26+Causal+Inference;Statistician+%7C+ML+Engineer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=60&lines=Applied+ML+%26+Statistical+Modeling;Hierarchical+%26+Causal+Inference;Applied+Scientist+%7C+ML+Engineer" alt="Typing Animation" />
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chrisolande&label=Profile%20Views&color=58A6FF&style=flat-square&exclude_me=true&reset=true" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Chrisolande?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="GitHub Followers" />
-<img src="https://img.shields.io/badge/Focus-Statistical%20Modeling%20%26%20ML-58A6FF?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Focus-Applied%20ML%20%26%20Research-58A6FF?style=flat-square" alt="Focus"/>
 <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-58A6FF?style=flat-square&logo=googlemaps" alt="Location"/>
 </div>
 
