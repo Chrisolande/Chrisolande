@@ -26,13 +26,69 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate WakaTime card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: wakatime
-          options: username=Chrisolande&layout=compact&display_format=time&langs_count=5&theme=github_dark&hide_border=true&custom_title=Coding%20Activity
-          path: dist/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate static WakaTime card
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+
+          curl -fsSL \
+            -u "${WAKATIME_API_KEY}:" \
+            "https://wakatime.com/api/v1/users/current/stats/last_7_days" \
+            -o /tmp/wakatime.json
+
+          python - <<'PY'
+          import html
+          import json
+          from pathlib import Path
+
+          data = json.load(open("/tmp/wakatime.json"))
+          langs = [
+              x for x in data.get("data", {}).get("languages", [])
+              if x.get("total_seconds", 0) > 0
+          ][:5]
+
+          total = sum(x["total_seconds"] for x in langs) or 1
+
+          def duration(seconds):
+              minutes = round(seconds / 60)
+              hours, minutes = divmod(minutes, 60)
+              if hours:
+                  return f"{hours}h {minutes:02d}m"
+              return f"{minutes}m"
+
+          rows = []
+          for i, lang in enumerate(langs):
+              name = html.escape(lang.get("name", "Unknown"))
+              pct = lang["total_seconds"] / total * 100
+              time = duration(lang["total_seconds"])
+              width = max(4, min(260, pct * 2.6))
+              y = 92 + i * 48
+              rows.append(
+                  f'<text x="28" y="{y}" fill="#c9d1d9" font-size="15" '
+                  f'font-family="Arial, sans-serif">{name}</text>'
+                  f'<rect x="125" y="{y-14}" width="260" height="10" rx="5" '
+                  f'fill="#21262d"/>'
+                  f'<rect x="125" y="{y-14}" width="{width:.1f}" height="10" rx="5" '
+                  f'fill="#58A6FF"/>'
+                  f'<text x="405" y="{y}" fill="#8b949e" font-size="13" '
+                  f'font-family="Arial, sans-serif">{time} · {pct:.1f}%</text>'
+              )
+
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="560" height="330" viewBox="0 0 560 330">
+            <rect width="560" height="330" rx="10" fill="#0d1117"/>
+            <text x="28" y="38" fill="#f0f6fc" font-size="20" font-weight="600"
+                  font-family="Arial, sans-serif">Coding Activity</text>
+            <text x="28" y="62" fill="#8b949e" font-size="12"
+                  font-family="Arial, sans-serif">WakaTime · Last 7 days</text>
+            {''.join(rows)}
+            <text x="28" y="315" fill="#484f58" font-size="10"
+                  font-family="Arial, sans-serif">Generated automatically via GitHub Actions</text>
+          </svg>'''
+
+          Path("dist/wakatime.svg").write_text(svg)
+          PY
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
