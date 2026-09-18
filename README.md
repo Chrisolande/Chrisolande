@@ -246,7 +246,7 @@
 ## 📊 Development Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisolande&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
+<img src="https://raw.githubusercontent.com/Chrisolande/Chrisolande/output/activity-graph.svg" alt="Activity Graph"/>
 </div>
 
 ---
