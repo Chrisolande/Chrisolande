@@ -16,13 +16,13 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff
+          options: theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&custom_title=Contribution%20Graph
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -64,7 +64,7 @@ jobs:
               pct = lang["total_seconds"] / total * 100
               time = duration(lang["total_seconds"])
               width = max(4, min(260, pct * 2.6))
-              y = 92 + i * 48
+              y = 92 + i * 44
               rows.append(
                   f'<text x="28" y="{y}" fill="#c9d1d9" font-size="15" '
                   f'font-family="Arial, sans-serif">{name}</text>'
@@ -76,15 +76,13 @@ jobs:
                   f'font-family="Arial, sans-serif">{time} · {pct:.1f}%</text>'
               )
 
-          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="560" height="330" viewBox="0 0 560 330">
-            <rect width="560" height="330" rx="10" fill="#0d1117"/>
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300">
+            <rect width="560" height="300" rx="10" fill="#0d1117"/>
             <text x="28" y="38" fill="#f0f6fc" font-size="20" font-weight="600"
                   font-family="Arial, sans-serif">Coding Activity</text>
             <text x="28" y="62" fill="#8b949e" font-size="12"
-                  font-family="Arial, sans-serif">WakaTime · Last 7 days</text>
+                  font-family="Arial, sans-serif">Last 7 days</text>
             {''.join(rows)}
-            <text x="28" y="315" fill="#484f58" font-size="10"
-                  font-family="Arial, sans-serif">Generated automatically via GitHub Actions</text>
           </svg>'''
 
           Path("dist/wakatime.svg").write_text(svg)
