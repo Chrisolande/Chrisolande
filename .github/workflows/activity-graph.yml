@@ -26,6 +26,14 @@ jobs:
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate WakaTime card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: wakatime
+          options: username=Chrisolande&layout=compact&display_format=time&langs_count=5&theme=github_dark&hide_border=true&custom_title=Coding%20Activity
+          path: dist/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
