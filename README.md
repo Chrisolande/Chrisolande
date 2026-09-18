@@ -251,19 +251,11 @@
 
 ---
 
-## ⏱️ Weekly Coding Time
+## ⏱️ Coding Activity
 
-<!--START_SECTION:waka-->
-
-```txt
-Python      46 hrs 43 mins        ██████████▓░░░░░░░░░░░░░░   42.32 %
-R           36 hrs 46 mins        ████████▒░░░░░░░░░░░░░░░░   33.31 %
-Jupyter     22 hrs 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-RMarkdown   2 hrs 54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Markdown    1 hr 29 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-```
-
-<!--END_SECTION:waka-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chrisolande/Chrisolande/output/wakatime.svg" alt="WakaTime Coding Activity"/>
+</div>
 
 ---
 
