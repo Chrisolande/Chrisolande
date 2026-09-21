@@ -253,9 +253,8 @@
 
 ## ⏱️ Coding Activity
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Chrisolande/Chrisolande/output/wakatime.svg" alt="WakaTime Coding Activity"/>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
