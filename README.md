@@ -254,6 +254,15 @@
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+R           58 hrs 27 mins        █████████████░░░░░░░░░░░░   52.64 %
+Python      34 hrs 35 mins        ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+Jupyter     17 hrs 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+Markdown    39 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+YAML        4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
