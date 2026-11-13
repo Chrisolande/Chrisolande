@@ -37,10 +37,21 @@ jobs:
           echo "Attempting to fetch WakaTime stats..."
           HTTP_STATUS="000"
           if [ -n "${WAKATIME_API_KEY:-}" ]; then
-            HTTP_STATUS=$(curl -s -w "%{http_code}" -u "${WAKATIME_API_KEY}:" \
+            # 1. Try Bearer token authorization (OAuth / Personal Access Token)
+            HTTP_STATUS=$(curl -s -w "%{http_code}" \
+              -H "Authorization: Bearer ${WAKATIME_API_KEY}" \
               --connect-timeout 10 --max-time 30 \
               "https://wakatime.com/api/v1/users/current/stats/last_7_days" \
               -o /tmp/wakatime.json || echo "000")
+
+            # 2. If Bearer fails, fallback to Basic auth
+            if [ "$HTTP_STATUS" != "200" ]; then
+              HTTP_STATUS=$(curl -s -w "%{http_code}" \
+                -u "${WAKATIME_API_KEY}:" \
+                --connect-timeout 10 --max-time 30 \
+                "https://wakatime.com/api/v1/users/current/stats/last_7_days" \
+                -o /tmp/wakatime.json || echo "000")
+            fi
           fi
           echo "WakaTime fetch completed with HTTP status: $HTTP_STATUS"
 
@@ -62,8 +73,10 @@ jobs:
               if x.get("total_seconds", 0) > 0
           ][:5]
 
-          subtitle = "Last 7 days"
-          if not langs:
+          total_hours_text = data.get("data", {}).get("human_readable_total", "")
+          if langs:
+              subtitle = f"Last 7 days · {total_hours_text}" if total_hours_text else "Last 7 days"
+          else:
               subtitle = "Active Focus Stack"
               langs = [
                   {"name": "Python", "total_seconds": 25200},
@@ -110,7 +123,7 @@ jobs:
           </svg>'''
 
           Path("dist/wakatime.svg").write_text(svg)
-          print("Generated dist/wakatime.svg successfully")
+          print(f"Generated dist/wakatime.svg successfully ({subtitle})")
           PY
 
       - name: Generate contribution snake
