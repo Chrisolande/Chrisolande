@@ -90,7 +90,7 @@
 <p>Eliminates shortcut learning in financial fraud detection via counterfactual interventions on temporal graphs. Attention-based causal/environment partitioning + Beta-mixup backdoor adjustment enforce prediction invariance under distribution shift. <strong>0.709 ± 0.131 AUPRC</strong> on S-FFSD (5 seeds, chronological split).</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
-<a href="https://github.com/Chrisolande/invariant-CaT-GNN">
+<a href="https://github.com/Chrisolande/CounterFraud-GNN">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 </td>
@@ -106,7 +106,7 @@
 <p>Dual-loop sequential recommender with evidence-anchored correction gates and zero-cold-start SBERT embeddings. Fully automated W&amp;B Bayesian HPO pipeline (15-trial search → 5-seed confirmation → self-published report). Modular 10-module production package. <strong>0.586 ± 0.008 NDCG@10</strong> on Amazon Luxury Beauty with best-to-terminal drop of only 0.0019.</p>
 <img src="https://img.shields.io/badge/Status-Complete-00D4AA?style=flat-square" alt="Complete"/>
 <br/><br/>
-<a href="https://github.com/Chrisolande/recursive-refinement-recsys">
+<a href="https://github.com/Chrisolande/latent-refinement-recsys">
 <img src="https://img.shields.io/badge/View%20Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 <a href="https://wandb.ai/olandechris-/refinerec/reports/RefineRec-Bayesian-Optimization-and-Five-Seed-Validation--VmlldzoxNzc5NjQwNA?accessToken=egmmekquwgr4ygitbfcg578evciwogl5q9br61ooksbnaenypd4qznvduncqizzh">
@@ -129,7 +129,7 @@
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"/><br/>
 <strong>R</strong><br/>
-<sub>Statistical Analysis</sub>
+<sub>Statistical Computing</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg" width="48" height="48" alt="Tidyverse"/><br/>
@@ -138,48 +138,52 @@
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/ggplot2.svg" width="48" height="48" alt="ggplot2"/><br/>
+<strong>ggplot2</strong><br/>
 <sub>Data Visualization</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidymodels.svg" width="48" height="48" alt="tidymodels"/><br/>
 <strong>tidymodels</strong><br/>
-<sub>ML Framework</sub>
+<sub>Statistical Modeling</sub>
 </td>
 <td align="center" width="20%">
-<strong>glmmTMB</strong><br/>
-<sub>Generalized Linear Mixed Models</sub>
+<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/quarto.svg" width="48" height="48" alt="Quarto"/><br/>
+<strong>Quarto</strong><br/>
+<sub>Reproducible Docs</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<strong>INLA</strong><br/>
-<sub>Bayesian Inference</sub>
+<img src="https://img.shields.io/badge/GLMM-glmmTMB-orange?style=flat-square" alt="glmmTMB"/><br/>
+<strong>glmmTMB</strong><br/>
+<sub>Mixed-Effects Models</sub>
 </td>
 <td align="center" width="20%">
+<img src="https://img.shields.io/badge/Bayesian-R--INLA-blue?style=flat-square" alt="INLA"/><br/>
+<strong>INLA</strong><br/>
+<sub>Latent Gaussian Models</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Diagnostics-DHARMa-green?style=flat-square" alt="DHARMa"/><br/>
 <strong>DHARMa</strong><br/>
 <sub>Residual Diagnostics</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
-<strong>Git</strong><br/>
-<sub>Version Control</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/><br/>
-<strong>Quarto</strong><br/>
-<sub>Reproducible Docs</sub>
-</td>
-<td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
 <strong>PostgreSQL</strong><br/>
-<sub>Database</sub>
+<sub>Relational & pgvector</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br/>
+<strong>Shell / Bash</strong><br/>
+<sub>Automation & Scripting</sub>
 </td>
 </tr>
 </table>
 </div>
 
-### **Machine Learning Engineering**
+### **Machine Learning & Production Engineering**
 
 <div align="center">
 <table>
@@ -188,6 +192,34 @@
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>
 <strong>Python</strong><br/>
 <sub>Primary Language</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/>
+<strong>PyTorch</strong><br/>
+<sub>Deep Learning</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/>
+<strong>FastAPI</strong><br/>
+<sub>Model Serving APIs</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
+<strong>Docker</strong><br/>
+<sub>Containerization</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+<strong>Git</strong><br/>
+<sub>Version Control</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/><br/>
+<strong>Scikit-learn</strong><br/>
+<sub>Machine Learning</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/><br/>
@@ -200,42 +232,14 @@
 <sub>Data Manipulation</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/>
-<strong>PyTorch</strong><br/>
-<sub>Deep Learning</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/>
-<strong>TensorFlow</strong><br/>
-<sub>Neural Networks</sub>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn"/><br/>
-<strong>Scikit-learn</strong><br/>
-<sub>Machine Learning</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
-<strong>Docker</strong><br/>
-<sub>MLOps</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
-<strong>Git</strong><br/>
-<sub>Version Control</sub>
-</td>
-<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/><br/>
 <strong>Jupyter</strong><br/>
-<sub>Notebooks</sub>
+<sub>Interactive Computing</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>
 <strong>MongoDB</strong><br/>
-<sub>NoSQL</sub>
+<sub>Document Store</sub>
 </td>
 </tr>
 </table>
@@ -262,7 +266,11 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://github.com/Chrisolande/Chrisolande/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chrisolande/Chrisolande/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chrisolande/Chrisolande/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Chrisolande/Chrisolande/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 
 ---
@@ -291,7 +299,7 @@
 </td>
 
 <td align="center" width="25%">
-<a href="https://kaggle.com/chrisolande">
+<a href="https://www.kaggle.com/chrisolande">
 <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 </td>
